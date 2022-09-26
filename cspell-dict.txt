@@ -160,6 +160,7 @@ SIGTERM
 sinonjs
 sint
 sortby
+SQLDB
 stringifiable
 stringification
 subchain
